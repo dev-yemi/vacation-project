@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 100,
+    "workbench.colorTheme": "One Monokai",
+    "liveServer.settings.port": 5501
+}
